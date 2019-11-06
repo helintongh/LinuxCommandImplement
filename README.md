@@ -6,7 +6,7 @@
 
 
 When we enter an instruction in the shell.
-
+```mermaid
 graph LR
 	A[INPUT]
 	B[shell parsing instruction]
@@ -18,5 +18,6 @@ graph LR
 	B->C
 	C->D
 	D->E
+```
 
 # ls
