@@ -2,6 +2,12 @@
     > File Name: ls1.c
     > Author:helintongh 
     > Mail: agh6399@gmail.com
+    伪代码如下：
+    main()
+        打开文件(目录)
+        while(读取目录)
+            打印文件名
+        关闭文件(目录)
  ************************************************************************/
 
 #include<stdio.h>
