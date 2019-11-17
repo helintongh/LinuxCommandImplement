@@ -5,7 +5,7 @@
 # Implement's principle
 
 
-When we enter an instruction in the shell.
+When we enter an instruction in the shell.Its workflow.
 
 ![Shell Command workflow](resource/1.jpg)
 
